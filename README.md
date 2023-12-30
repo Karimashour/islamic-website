@@ -7,10 +7,9 @@ https://karimashour.github.io/islamic-website/
 # tools :
 - html
 - css
-- bootstrap
-- bootstrap icons
-- jquery
+- javascript
+
 
 
 # features
-- squash sport landing page 
+- islamic website landing page 
